@@ -15,25 +15,41 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 
 # Description for engineers
 
-Using the tools above, create Artificial Interactive Entities to harvest every type of resources possible in the planet ( digital world ).
-
+1. Using the tools above, create Artificial Interactive Entities to harvest/mine every type of crypocurrency resources possible in the web.
+2. Finding new tools to upgrade the hardware and software of this artificial interactive entity 
+3. Implement algorithms to protect this aritifcial interactive entity
+4. 
+5. The resources are <span class="edit-link"><a href="https://www.youtube.com/watch?v=lixNP2DrupY&ab_channel=GraduateStudies" target="_blank"><i class="fa fa-github"></i>advanced FGPA boards</a> powered through electrical charge, operates with/without user interface , stress for the project manager, communicate through the command center 
+6.
+7. "constructs buildings" from the second statement of the Introduction ; really just mining virtual space from other planets, i.e google cloud, mongodb, firebase
+8. Too much to say....
+9. 
+  
 # Description for civilians
 
-The engineers above are making artificial robots that collect monetary resources, ranging from : bitcoin, to US dollars, to paypal currency, to anything that can be traded for anything.
-These robots also record every identifiable conversation, public chat log and insert the raw data into a complexe level of database for machine learning. Basically, learning what to say to a civilian like yourself based on reponse. 
-The Intelligence of the robots will be based on how many line of codes i jam in their brain.
+1. The engineers above are making artificial robots that collect monetary resources, ranging from : bitcoin, to US dollars, to paypal currency, to anything that can be traded for anything in this planet.
+2. These robots also record every identifiable conversation, public chat log and insert the raw data into a complexe level of database for machine learning. Basically, learning what to say to a civilian like yourself based on reponse. 
+3. These interactive robots above will try to blend into society and try not to get caught doing online labour jobs that is meant for a civilian like yourself.
+4. The Intelligence of the robots will be based on how many line of codes the engineer jam in their brain. 
+5. They live inside my laptop, eats electricity, produces heat, stress for the engineers, and communicate with wifi
 
-# Overall Progress Bar 6%/101%
+# Potential Risk
 
-                                            > Software Status          ( brain  )                 1%/20% 
+Getting sued by the company that makes the tools.
+Getting sued by the company that grows the type of resources.
+Getting sued by the university for abusing their free tools.
+
+# Overall Progress Bar 6.00/101.00%
+
+                                            > Software Status          ( brain  )                 1.00/20.00% 
    
-                                            > Hardware Status          ( vessel )                 1%/21%
+                                            > Hardware Status          ( vessel )                 1.00/21.00%
   
-                                            > Artificial Intelligence  ( learning )               1%/20%
+                                            > Artificial Intelligence  ( learning )               1.00/20.00%
   
-                                            > Cyber Security           ( protection )             1%/20%
+                                            > Cyber Security           ( protection )             1.00/20.00%
   
-                                            > Framework                ( communnication )         2%/20%
+                                            > Framework                ( communnication )         2.25/20.00%
   
 # Current Assets
   
@@ -41,8 +57,14 @@ The Intelligence of the robots will be based on how many line of codes i jam in 
   
   > Dynamic Assets : 2545.97 ¥
   
+  > Growth Rate    : 300 ¥ per day
   
+# Current Plateform 
 
+  > Plannets       : runescape , paypal , twitch , discord
+  
+  > Operators      : 
+  
 # Edit this page
 
 
