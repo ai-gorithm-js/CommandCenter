@@ -62,7 +62,7 @@ Getting sued by the university for abusing their free tools.
   
 # Current Plateform 
 
-  > Plannets       : runescape , paypal 
+  > Plannets       : [runescape](https://github.com/ai-gorithm-js/CommandCenter/tree/main/planets/runescape) 
   
   > Operators      : 
   
