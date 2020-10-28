@@ -62,7 +62,7 @@ Getting sued by the university for abusing their free tools.
   
 # Current Plateform 
 
-  > Plannets       : runescape , paypal , twitch , discord
+  > Plannets       : runescape , paypal 
   
   > Operators      : 
   
