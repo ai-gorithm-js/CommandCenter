@@ -53,7 +53,8 @@ Getting sued by the university for abusing their free tools.
   
 # Current Assets
   
-  > Static Assets  : <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/" target="_blank"><i class="fa fa-github"></i>Pandora's Box</a>
+  > Static Assets  : <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> Pandora's Box  </a>
+  <span class="edit-link"><a href="https://rog.asus.com/ca-en/laptops/rog-strix/rog-strix-scar-iii-g531-series/spec/" target="_blank"><i class="fa fa-github"></i> Mjölnir  </a>
   
   > Dynamic Assets : 2545.97 ¥
   
