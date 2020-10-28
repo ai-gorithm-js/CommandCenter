@@ -41,15 +41,15 @@ Getting sued by the university for abusing their free tools.
 
 # Overall Progress Bar 6.00/101.00%
 
-                                            > Software Status          ( brain  )                 1.00/20.00% 
+                    > Software Status          ( brain  )                 1.00/20.00% 
    
-                                            > Hardware Status          ( vessel )                 1.00/21.00%
+                    > Hardware Status          ( vessel )                 1.00/21.00%
   
-                                            > Artificial Intelligence  ( learning )               1.00/20.00%
+                    > Artificial Intelligence  ( learning )               1.00/20.00%
   
-                                            > Cyber Security           ( protection )             1.00/20.00%
+                    > Cyber Security           ( protection )             1.00/20.00%
   
-                                            > Framework                ( communnication )         2.25/20.00%
+                    > Framework                ( communnication )         2.25/20.00%
   
 # Current Assets
   
