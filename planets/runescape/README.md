@@ -6,6 +6,10 @@ Basic Level Bot
 
 The SCV (Space Construction Vehicle) is the Terran worker unit. It harvests resources, constructs buildings and can repair all Terran mechanical units and buildings. As a building is constructed, the SCV must remain at the site until complete. If the building SCV is killed, the building's construction will halt. Building SCVs can be given queued assignments such as mining minerals and even constructing more buildings. If an SCV builds a Refinery it will automatically start mining gas unless it has been given another command in the queue.
 
+
+
+------------------------------------------------Need to be updated before December 31,2020---------------------------------------------------------------------------
+
 # Specification
 
 A computer, A wifi suscription that cost +40$ per month and a wireless adapter that cost +100$, the whole(a lot lot lot lot of modules) node.js package, robotjs library, brainjs library, datastructure & algorithms, operating systems, address proxy software, a recorder software, a source code editor software , remote access
