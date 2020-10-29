@@ -14,18 +14,12 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 
 
 # Description for engineers
-
+0. Condensed and interpolated 5000 steps into 5 simple step 
 1. Using the tools above, create Artificial Interactive Entities to harvest/mine every type of crypocurrency resources possible in the web.
 2. Finding new tools to upgrade the hardware and software of this artificial interactive entity 
 3. Implement algorithms to protect this aritifcial interactive entity
-4. 
-5. The resources are <span class="edit-link"><a href="https://www.youtube.com/watch?v=lixNP2DrupY&ab_channel=GraduateStudies" target="_blank"><i class="fa fa-github"></i>advanced FGPA boards</a> powered through electrical charge, operates with/without user interface , stress for the project manager, communicate through the command center 
-
-7. "constructs buildings" from the second statement of the Introduction ; really just mining virtual space from other planets, i.e google cloud, mongodb, firebase
-8. Too much to say....
-9. 
-56.
-10. 
+4. At this point, the Artificial Interactive Entity is constantly improving it's own memory capacity, discovering new resources to mine, improving the rate of growth of existing resources, basically with the resources swaped into money. You buy more fpga boards and program more AI bots to replicate itself.
+5. The engineers can sleep safely and sound while the SVCs harvest cryptocurrency 24/7. 
 
 # Description for civilians
 
