@@ -12,6 +12,10 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 # Description for gamers
 
+![til](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/collectingMinterals.gif)
+
+![til2](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/collectingVespianGase.gif)
+
 # Description for non-gamers
 
 # Potential Source of Error
@@ -32,8 +36,10 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
                     > Paypal bank       :     +1000.00 ¥
 
-                    > Runescape bank    :     +100,000,000 GP
+                    > Runescape bank    :     +75,000,000 gp 
+                    
+                    
 
 # Edit this page
 
-<span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/planets/runescape/edit/main/README.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
+<span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/edit/main/planets/runescape/README.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
