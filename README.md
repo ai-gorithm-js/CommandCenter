@@ -29,7 +29,7 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 4. The Intelligence of the robots will be based on how many line of codes the engineer jam in their brain. 
 5. They live inside my laptop, eats electricity, produces heat, stress for the engineers, and communicate with wifi.
 6. These interactive robots also help you aim better, or just aim for you provided that you have given the engineers the set of instructions for them and the jars.
-7. These interactive robots also helped someone read the frontend of a exam website, and was able to see somewhat of a unprotected backend with 120,000 lines of clean code.Shouldn't a university website have their examination website's web code private? Now, it makes more sense that i've actually and undoubtly read the backend.
+7. These interactive robots perform manual labour jobs for you while you dream at night. ( basically passive income )
 
 # Potential Risk
 
