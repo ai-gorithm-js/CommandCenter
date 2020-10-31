@@ -20,6 +20,8 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 ![til2](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/collectingVespianGase.gif)
 
+![til3](https://github.com/ai-gorithm-js/CommandCenter/blob/main/planets/runescape/BicameralBot.gif)
+
 # Description for non-gamers
 
 # Potential Source of Error
