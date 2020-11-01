@@ -43,7 +43,7 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
                     > Paypal bank       :     +1000.00 ¥
 
-                    > Runescape bank    :     +75,000,000 gp 
+                    > Runescape bank    :     +100,000,000 gp 
                     
                     
 
