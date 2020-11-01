@@ -27,13 +27,13 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 # Potential Source of Error
 
-# Overall Progress Bar 36.00/100.00%
+# Overall Progress Bar 36.00/101.00%
 
                     > Software Status          ( javacript )                    10.00/20.00%
 
                     > Hardware Status          ( laptop )                       19.99/21.00%
 
-                    > Artificial Intelligence  ( brain.js )                     2.00/20.00%
+                    > Artificial Intelligence  ( brain.js )                     2.00/20.00% 
 
                     > Cyber Security           ( forticlient vpn )              3.00/20.00%
 
