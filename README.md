@@ -1,6 +1,12 @@
 # CommandCenter
 Intermediate programming project:  SCV
 
+# Inspiration
+
+* Visuals : <span class="edit-link"><a href="https://en.wikipedia.org/wiki/StarCraft" target="_blank"><i class="fa fa-github"></i> My childhood game </a></span>
+* Concept : <span class="edit-link"><a href="https://en.wikipedia.org/wiki/Westworld_(TV_series)" target="_blank"><i class="fa fa-github"></i> My favorite show </a></span>
+* AI : <span class="edit-link"><a href="https://www.youtube.com/watch?v=lixNP2DrupY&ab_channel=GraduateStudies" target="_blank"><i class="fa fa-github"></i> My microprocessor professor </a></span>
+
 # Introduction
 
 The SCV (Space Construction Vehicle) is the Terran worker unit. It harvests resources, constructs buildings and can repair all Terran mechanical units and buildings. As a building is constructed, the SCV must remain at the site until complete. If the building SCV is killed, the building's construction will halt. Building SCVs can be given queued assignments such as mining minerals and even constructing more buildings. If an SCV builds a Refinery it will automatically start mining gas unless it has been given another command in the queue.
@@ -16,9 +22,9 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 # Description for engineers
 0. Condensed and interpolated 5000 steps into 5 simple step 
 1. Using the tools above, create Artificial Interactive Entities to harvest/mine every type of crypocurrency resources possible in the web.
-2. Finding new tools to upgrade the hardware and software of this artificial interactive entity 
-3. Implement algorithms to protect this aritifcial interactive entity
-4. At this point, the Artificial Interactive Entity is constantly improving it's own memory capacity, discovering new resources to mine, improving the rate of growth of existing resources, basically with the resources swaped into money. You buy more fpga boards and program more AI bots to replicate itself.
+2. Finding new tools to upgrade the hardware and software of this artificial interactive entity, Implement algorithms to protect this aritifcial interactive entity
+3. Find a suitable memory address for the decillion lines of binary bits to live inside. Ranging from </a><span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/blob/main/fpga/gameboy.jpg"><i class="fa fa-github"></i> simple electronic devices </a> to <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> intermediate gaming laptop    </a> to <a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> advanced fpga boards  </a>. 
+4. At this point, the Artificial Interactive Entity is constantly improving it's own memory capacity, discovering new resources to mine, improving the rate of growth of existing resources, basically with the resources swaped into money. You buy more fpga boards and program more AI bots to replicate itself. ( deep learning libraries,methodology, pattern recognition, basically every type of free library resources possible neatly placed inside because there's an infinite amount of space in existence which can hold an infinite set of knowledge containing every single detail about reality itself) 
 5. The engineers can sleep safely and sound while the SVCs harvest cryptocurrency 24/7. 
 
 # Description for civilians
@@ -51,9 +57,10 @@ Getting sued by the university for abusing their free tools.
   
 # Current Assets
   
-  > Static Assets  : <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> Pandora's Box  </a>
-  <span class="edit-link"><a href="https://rog.asus.com/ca-en/laptops/rog-strix/rog-strix-scar-iii-g531-series/spec/" target="_blank"><i class="fa fa-github"></i> Mjölnir  </a>
+  > Static Assets  : <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> Pandora's Box     </a>
+  <span class="edit-link"><a href="https://rog.asus.com/ca-en/laptops/rog-strix/rog-strix-scar-iii-g531-series/spec/" target="_blank"><i class="fa fa-github"></i>,   Mjölnir     </a><span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/blob/main/fpga/gameboy.jpg"><i class="fa fa-github"></i>,   Sange & Yasha  </a>
   
+ 
   > Dynamic Assets : 2545.97 ¥
   
   > Growth Rate    : 300 ¥ per day
