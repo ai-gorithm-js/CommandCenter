@@ -22,6 +22,7 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 ![til3](https://github.com/ai-gorithm-js/CommandCenter/blob/main/planets/runescape/BicameralBot.gif)
 
+![til4](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/tribrid.gif)
 # Description for non-gamers
 
 # Potential Source of Error
