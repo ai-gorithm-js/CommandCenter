@@ -1,5 +1,5 @@
 # CommandCenter
-Intermediate programming project:  SCV
+Current Operator :  SCV
 
 # Inspiration
 
