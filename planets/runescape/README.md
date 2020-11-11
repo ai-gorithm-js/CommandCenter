@@ -1,15 +1,24 @@
-# CommandCenter
+# Hatchery
 
-Basic Level Bot
+Basic level harvest bot
 
 # Introduction
 
-The SCV (Space Construction Vehicle) is the Terran worker unit. It harvests resources, constructs buildings and can repair all Terran mechanical units and buildings. As a building is constructed, the SCV must remain at the site until complete. If the building SCV is killed, the building's construction will halt. Building SCVs can be given queued assignments such as mining minerals and even constructing more buildings. If an SCV builds a Refinery it will automatically start mining gas unless it has been given another command in the queue.
+Hatcheries perform three vital functions that no colony can survive without: producing the creep, which most zerg structures require in order to be built, giving birth to larvae that can mutate into the various zerg breeds and digesting minerals and vespene gas to change into a nutrient form that zerg can use to feed their mutations.Hatcheries also serve as the central point from which genetic information is distributed from the hive cluster to drones and larva.
+<span class="edit-link"><a href="https://starcraft.fandom.com/wiki/Hatchery" target="_blank"><i class="fa fa-github"></i> Source</a></span>
+
+
+
+# Goals
+
+
+# MileStone 
+
 
 
 
 ------------------------------------------------Need to be updated before December 31,2020---------------------------------------------------------------------------
-
+bump 1x
 # Specification
 
 A computer, A wifi suscription that cost +40$ per month and a wireless adapter that cost +100$, the whole(a lot lot lot lot of modules) node.js package, robotjs library, brainjs library, datastructure & algorithms, operating systems, address proxy software, a recorder software, a source code editor software , remote access
@@ -28,7 +37,19 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 # Description for non-gamers
 
+
+
 # Potential Source of Error
+
+  *Bot stuck due to latency error
+  
+  *Bot stuck due to in-game ping error
+  
+  *Bot stuck due to system error
+  
+  *Bot ran out of resources
+  
+  *Bot got detected
 
 # Overall Progress Bar 36.00/101.00%
 
@@ -47,6 +68,7 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
                     > Paypal bank       :     +1000.00 ¥
 
                     > Runescape bank    :     +100,000,000 gp 
+                                                      +stuck for 2-3 weeks due to trial and error 
                     
                     
 
