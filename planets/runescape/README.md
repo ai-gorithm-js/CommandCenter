@@ -16,15 +16,15 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 # Description for gamers
 
-![til](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/collectingMinterals.gif)
+![til](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/collectingMinterals.gif)
 
-![til2](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/collectingVespianGase.gif)
+![til2](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/collectingVespianGase.gif)
 
 ![til3](https://github.com/ai-gorithm-js/CommandCenter/blob/main/planets/runescape/BicameralBot.gif)
 
-![til4](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/tribrid.gif)
+![til4](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/tribrid.gif)
 
-![til5](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/dualSupply.gif)
+![til5](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/dualSupply.gif)
 
 # Description for non-gamers
 
