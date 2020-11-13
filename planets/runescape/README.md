@@ -23,22 +23,26 @@ bump 1x
 
 A computer, A wifi suscription that cost +40$ per month and a wireless adapter that cost +100$, the whole(a lot lot lot lot of modules) node.js package, robotjs library, brainjs library, datastructure & algorithms, operating systems, address proxy software, a recorder software, a source code editor software , remote access
 
-# Progress 
+# Demonstration 
 
 
-1
+---------------------------------------------------------part 1----------------------------------------
+
 ![til](y1.gif)
 
-2
+---------------------------------------------------------part 2----------------------------------------
+
 ![til2](y2.gif)
 
-3 
+---------------------------------------------------------part 3----------------------------------------
+
 ![til3](y3.gif)
 
-4
+---------------------------------------------------------part 4----------------------------------------
+
 ![til4](y4.gif)
 
-
+---------------------------------------------------------part 5----------------------------------------
 # Description
 
 
