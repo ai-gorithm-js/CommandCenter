@@ -23,19 +23,23 @@ bump 1x
 
 A computer, A wifi suscription that cost +40$ per month and a wireless adapter that cost +100$, the whole(a lot lot lot lot of modules) node.js package, robotjs library, brainjs library, datastructure & algorithms, operating systems, address proxy software, a recorder software, a source code editor software , remote access
 
-# Description for gamers
+# Progress 
 
-![til](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/collectingMinterals.gif)
 
-![til2](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/collectingVespianGase.gif)
+1
+![til](y1.gif)
 
-![til3](https://github.com/ai-gorithm-js/CommandCenter/blob/main/planets/runescape/BicameralBot.gif)
+2
+![til2](y2.gif)
 
-![til4](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/tribrid.gif)
+3 
+![til3](y3.gif)
 
-![til5](https://github.com/yida-li/Gaming-Bots/blob/master/runescape/hatchery/dualSupply.gif)
+4
+![til4](y4.gif)
 
-# Description for non-gamers
+
+# Description
 
 
 
