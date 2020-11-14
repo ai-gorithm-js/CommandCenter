@@ -27,6 +27,13 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 4. At this point, the Artificial Interactive Entity is constantly improving it's own memory capacity, discovering new resources to mine, improving the rate of growth of existing resources, basically with the resources swaped into money. You buy more fpga boards and program more AI bots to replicate itself. ( deep learning libraries,methodology, pattern recognition, basically every type of free library resources possible neatly placed inside because there's an infinite amount of space in existence which can hold an infinite set of knowledge containing every single detail about reality itself) 
 5. The engineers can sleep safely and sound while the SVCs harvest cryptocurrency 24/7. 
 
+# (Bonus)While the SCV are mining resourecs in different platforms, these inconspicous AI-bots are also recording large data sets to be used/stored in
+
+* the advance programming  project : [Freestpace](https://github.com/ai-gorithm-js/Freestpace) 
+
+* the expert programming  project  : [Enigma](https://github.com/ai-gorithm-js/Enigma) 
+
+
 # Description for civilians
 
 1. The engineers above are making artificial robots that collect monetary resources, ranging from : bitcoin, to US dollars, to paypal currency, to anything that can be traded for anything in this planet.
