@@ -83,3 +83,9 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 # Edit this page
 
 <span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/edit/main/planets/runescape/README.md" target="_blank"><i class="fa fa-github"></i> edit this page</a></span>
+
+
+
+# Project Halted
+
+thanks a lot, i trusted you guys and you took my bank
