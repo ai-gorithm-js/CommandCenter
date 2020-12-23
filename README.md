@@ -47,8 +47,11 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 # Potential Risk
 
 Getting sued by the company that makes the tools.
+
 Getting sued by the company that grows the type of resources.
+
 Getting sued by the university for abusing their free tools.
+
 Getting sabotaged and minerals stolen by immature friend/friends. ( 1x )
 
 # Overall Progress Bar 6.00/101.00%
