@@ -1,5 +1,5 @@
 # CommandCenter
-Current Operator :  SCV
+Current Operator :  SCV , Drone
 
 # Inspiration
 
@@ -49,6 +49,7 @@ Sometimes it is best to not give out the blueprint of an unfinished technology
 Getting sued by the company that makes the tools.
 Getting sued by the company that grows the type of resources.
 Getting sued by the university for abusing their free tools.
+Getting sabotaged and minerals stolen by immature friend/friends. ( 1x )
 
 # Overall Progress Bar 6.00/101.00%
 
@@ -65,7 +66,7 @@ Getting sued by the university for abusing their free tools.
 # Current Assets
   
   > Static Assets  : <span class="edit-link"><a href="https://www.asus.com/ca-en/Laptops/ROG-GL553VD/specifications/" target="_blank"><i class="fa fa-github"></i> Pandora's Box     </a>
-  <span class="edit-link"><a href="https://rog.asus.com/ca-en/laptops/rog-strix/rog-strix-scar-iii-g531-series/spec/" target="_blank"><i class="fa fa-github"></i>,   Mjölnir     </a><span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter/blob/main/fpga/gameboy.jpg"><i class="fa fa-github"></i>,   Sange & Yasha  </a>
+  <span class="edit-link"><a href="https://rog.asus.com/ca-en/laptops/rog-strix/rog-strix-scar-iii-g531-series/spec/" target="_blank"><i class="fa fa-github"></i>,   Mjölnir     
   
  
   > Dynamic Assets : 2545.97 ¥
