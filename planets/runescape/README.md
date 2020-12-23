@@ -73,10 +73,10 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 # Current Asset
 
-                    > Paypal bank       :     +1000.00 ¥
+                    > Paypal bank       :     +4000.00 ¥
 
-                    > Runescape bank    :     +100,000,000 gp 
-                                                      +stuck for 2-3 weeks due to trial and error 
+                    > Runescape bank    :     -70,000,000 gp 
+                                                      +SCV sabotaged by a friend
                     
                     
 
@@ -86,6 +86,7 @@ A computer, A wifi suscription that cost +40$ per month and a wireless adapter t
 
 
 
-# Project Halted
+# Project Restarted
 
-thanks a lot, i trusted you guys and you took my bank
+
+
